@@ -1,2 +1,2 @@
 # pythonbiteme
-Playground for paython language learning practice
+Playground for python language learning practice
