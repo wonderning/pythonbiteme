@@ -1,5 +1,5 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#! /usr/bin/env python
 # 输入某年某月某日，判断这一天是这一年的第几天？
 # The only variation is February. Judge
 
