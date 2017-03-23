@@ -1,5 +1,5 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#! /usr/bin/env python
 # 一个整数，它加上100和加上268后都是一个完全平方数，请问该数是多少？
 # Python also has huge precision issues during calculation.
 # import match sqrt() can also be used.
