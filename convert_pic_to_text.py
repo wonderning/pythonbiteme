@@ -1,5 +1,5 @@
+#!/usr/bin/env python
 # coding utf-8
-# !/usr/bin/env python
 # PIL for python 2.x or Pillow for python 3.x is needed. pip install Pillow. 
 # py convert_pic_to_text.py input.jpg
 # py convert_pic_to_text.py input.jpg -o output.txt
