@@ -2,6 +2,7 @@
 #!/usr/bin/env python
 # 一个整数，它加上100和加上268后都是一个完全平方数，请问该数是多少？
 # Python also has huge precision issues during calculation.
+# import match sqrt() can also be used.
 
 i = 1.0
 while i >= 0:
